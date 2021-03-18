@@ -1,4 +1,5 @@
-# vim-editor-config
+# editor-config
+#VIM
 ```
 set ts=2
 set sts=2
